@@ -1,0 +1,115 @@
+.navbar{
+    background-color:#1A237E;
+}
+.ipad{
+    color: #000;
+font-family: Montserrat;
+font-size: 49px;
+font-style: normal;
+font-weight: 500;
+line-height: 40px;
+}
+.carousel-item {
+    padding: 5% 15%;
+    background: linear-gradient(90deg, rgba(233,148,208,1) 7%, rgba(174,229,238,1) 81%);
+   
+}
+.img-iphone{
+    height: 600px;
+    width: 400px;
+}
+.Mac{
+    
+font-family: Montserrat;
+font-size: 64px;
+font-style: normal;
+font-weight: 250;
+line-height: 56px;
+}
+.air{
+    color: #000;
+font-family: Montserrat;
+font-size: 64px;
+font-style: normal;
+font-weight: 500;
+line-height: 56px; 
+}
+.max{
+    color: #000;
+font-family: Montserrat;
+font-size: 29px;
+font-style: normal;
+font-weight: 500;
+line-height: 40px; 
+}
+.apple{
+    color: #000;
+font-family: Montserrat;
+font-size: 29px;
+font-style: normal;
+font-weight: 300;
+line-height: 40px;
+}
+.box1p1{
+    background: var(--Main-White, #FFF); 
+}
+.box1p2{
+    background: #ADC2D7; 
+ 
+}
+.box2{
+    background: #EDEDED;;
+}
+.box{
+    width: 200px;
+    height: 150px;
+    border: 2px solid black;
+    margin: 5px;
+}
+.card-title1{
+    color: var(--Main-Black, #000);
+    text-align: center;
+    font-family: Montserrat;
+    font-size: 24px;
+    font-style: italic;
+    font-weight: 700;
+    line-height: 24px; /* 100% */
+    letter-spacing: 0.72px;
+}
+.card-text {color: var(--Main-Black, #000);
+text-align: center;
+font-family: Montserrat;
+font-size: 16px;
+font-style: normal;
+font-weight: 500;
+line-height: 24px;}
+btn{
+    display: flex;
+    padding: 12px 64px;
+    justify-content: center;
+    align-items: center;
+    gap: 8px; 
+    border-radius: 8px;
+background: var(--Main-Black, #000);
+}
+.t1{
+    color: #25177B;
+text-align: center;
+font-family: Montserrat;
+font-size: 60px;
+font-style: normal;
+font-weight: 900;
+line-height: 72px; /* 100% */
+letter-spacing: -0.72px;
+}
+.banner5{
+    background: #958AD4;
+}
+footer{
+    background: #0E071B;
+    
+}
+.text1{
+    color: #CFCFCF;
+
+}
